@@ -1,0 +1,58 @@
+hr {
+    border: none;
+    color: black;
+    background-color: black;
+    height: 2px;
+}
+
+p{
+    font-size: 20px;
+    margin-left: 20px;
+}
+
+p.text{
+    font-size: 20px;
+    text-indent: 30px;
+    margin-left: 20px;
+}
+
+p.footer{
+    font-size: 15px;
+}
+
+td{
+    font-size: 20px;
+}
+
+a{
+    font-size: 20px;
+}
+
+a.menu{
+    font-size: 25px;
+}
+
+table.menu{
+    border-spacing: 50px 50px;
+}
+
+td.menu{
+    background: #05f800;
+    text-align: center;
+    border-style: double;
+    padding: 5px 5px;
+}
+
+ul{
+    font-size: 20px;
+    margin-left: 20px;
+}
+
+b.price{
+    font-size: 30px;
+}
+
+body{
+    background: url('../img/background/main.jpg') no-repeat center center fixed, rgba(255,255,255,0.85);
+    background-blend-mode: color;
+}
